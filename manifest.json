@@ -1,0 +1,26 @@
+
+   
+ {
+  "short_name": "IURDSCOLOSO",
+  "name": "IURDSACAPULCO",
+  "icons": [
+  {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGELbo6VgYYVWMMWDBVKJphxNGpXaNYZB6ESUahDl3h3rytdUgENRRZjgXcdSg1DeEtcUStTywrLqxXqJBQnpv82nrAVpE_cBPR7fbmerRuhpywcmTKgO-QeO8ey3EgEbctzFVqDIU6rNsM06BJjafSVuDjC7IfVV45PUqr-6xDtk-yv-Ct9SNxo4E2pX4/s192/android-chrome-192x192.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+	 {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilrFX53KywZzThnKN9s_ShWh29d2N3VLmqNDyLbNrAjlNAAerwzy8_5V0cown7tUfyXsdiGHM6zeVqRyCdpZDF7EuXhcDDxSXmVfZHvQZZYz-7JiPGc4k5yX2qolByh18bjHnDrw3lgg6fefETiD8SY9r0zrts2kltbK5GZ7cve23zW0rAbmpU5eQkuEHU/s512/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#00060a",
+  "theme_color": "#00060a"
+}
+   
+      
+      
